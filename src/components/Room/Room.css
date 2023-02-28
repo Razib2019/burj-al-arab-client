@@ -1,0 +1,43 @@
+.card {
+    width: 400px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-content {
+    padding: 0px 10px;
+}
+
+.card-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bed-info {
+    display: flex;
+    align-items: center;
+}
+
+.person-info {
+    display: flex;
+    align-items: center;
+}
+
+.price-info {
+    display: flex;
+    align-items: center;
+}
+
+.card-btn {
+    background-color: rgb(11, 11, 143);
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+}
